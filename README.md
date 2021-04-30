@@ -4,7 +4,7 @@
 
 ### Proyecto Base
 
-![index.html](https://xd.adobe.com/spec/c722701f-1b06-47cc-56e5-021b1c22b396-b113/specs/)
+[index.html](https://xd.adobe.com/spec/c722701f-1b06-47cc-56e5-021b1c22b396-b113/grid)
 
 ### Evento adicional
 
