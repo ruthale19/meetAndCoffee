@@ -157,3 +157,27 @@ nav ul li {
 footer i {
   margin: 0 0.25em 0.5em 0.25em;
 }
+
+#veganDB {
+  margin-top: 0;
+  padding-top: 6rem;
+  padding-bottom: 1rem;
+}
+
+.centrar {
+  margin: 0 28%;
+}
+
+#veganDB h2, #veganDB p, #veganDB h3{
+  text-align: left;
+  margin: 2rem 0;
+}
+
+.imgSimposio {
+  width: 100%;
+}
+
+.evento a {
+  color:#000f08;
+  text-decoration: none;
+}

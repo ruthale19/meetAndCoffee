@@ -1,10 +1,12 @@
 # Proyecto Meet & Coffee
 
+Proyecto solo para versión Desktop.
+
 ## Mockup del Proyecto
 
-[Maqueta Final](https://xd.adobe.com/spec/c722701f-1b06-47cc-56e5-021b1c22b396-b113/grid)
+[**Maqueta Final**](https://xd.adobe.com/spec/c722701f-1b06-47cc-56e5-021b1c22b396-b113/grid)
 
-[Guía de Estilos](https://xd.adobe.com/spec/9b3deedb-56a3-4bd5-5a0c-99cf5480ddb3-ed0c/grid)
+[**Guía de Estilos**](https://xd.adobe.com/spec/9b3deedb-56a3-4bd5-5a0c-99cf5480ddb3-ed0c/grid)
 
 ## Enlace Deploy
 
@@ -14,7 +16,7 @@
 
 ## Desarrollado para
 
-[E-camp](https://www.linkedin.com/company/e-camp-chile)
+[**E-camp**](https://www.linkedin.com/company/e-camp-chile)
 
 ## Tecnología/lenguaje utilizado
 
